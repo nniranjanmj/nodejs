@@ -8,7 +8,8 @@ rm -rf node_modules
 rm -rf build
 
 #Install_node_modules_&_Make_React_Build
-nvm install 16
-nvm use 16
-npm  install
-npm run build
+sudo npm install
+
+sudo npm run build
+
+sudo pm2 serve build 80 --spa
