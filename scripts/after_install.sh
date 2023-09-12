@@ -9,6 +9,6 @@ rm -rf build
 
 #Install_node_modules_&_Make_React_Build
 nvm install 16
-nvm use 16S
+nvm use 16
 npm  install
 npm run build
