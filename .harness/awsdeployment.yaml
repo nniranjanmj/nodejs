@@ -1,0 +1,5 @@
+service:
+  name: aws-deployment
+  identifier: awsdeployment
+  orgIdentifier: default
+  projectIdentifier: demo
