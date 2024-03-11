@@ -3,3 +3,6 @@ service:
   identifier: niranjan
   orgIdentifier: default
   projectIdentifier: demo
+  serviceDefinition:
+    spec: {}
+    type: Asg
