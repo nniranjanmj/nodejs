@@ -1,0 +1,7 @@
+environment:
+  name: DEV
+  identifier: DEV
+  accountId: OuNNKRYvRxaoVyOr_BiJFQ
+  orgIdentifier: default
+  projectIdentifier: demo
+  type: PreProduction
